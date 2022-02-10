@@ -1,0 +1,21 @@
+.bundle
+npm-debug.log
+*.swp
+db/*.sqlite3
+log/*.log
+ssl/
+tmp/
+.sass-cache/
+.DS_Store
+.idea
+*.iml
+node_modules/
+
+
+yarn.lock
+
+# yarn files
+yarn-error.log
+
+
+.vscode
